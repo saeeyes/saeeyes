@@ -60,16 +60,6 @@
 - 🛠 실제 배포 경험 포함! (AWS, Firebase, LG ThinQ 등)
 
 ---
-
-## 🛠 Tech Stack
-
-| Back-End                          | Front-End     | Infra & DB                     | Collaboration & Tools      |
-|----------------------------------|---------------|--------------------------------|-----------------------------|
-| Java (JDK 21), Spring Boot       | HTML/CSS      | MySQL, AWS S3, Firebase        | GitHub, Figma, Notion       |
-| Spring Security, JWT, OAuth2     | JavaScript    | AWS EC2, Postman               | ERDCloud, IntelliJ, Postman |
-
----
-
 ## 📂 Projects
 
 ### 🩺 PM: 개인 맞춤형 헬스케어 앱
