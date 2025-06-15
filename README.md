@@ -28,10 +28,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20Sehee's%20GitHub&height=200&fontSize=40&fontAlign=50&desc=Back-End%20Developer&descAlign=50&descSize=18" />
-
-</div>
-
 ---
 
 ## ✨ About Me
