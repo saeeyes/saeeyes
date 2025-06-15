@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <h1>👋 Hi there, I'm <span style="color:#4CAF50">김세희 (Saehee Kim)</span></h1>
@@ -9,6 +8,25 @@
   📍 Computer Engineering @ Sejong Univ. (2022.03 ~ 2026.02) <br>
   📬 <a href="mailto:sayees1118@gmail.com">sayees1118@gmail.com</a>
 </p>
+
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20Sehee's%20GitHub&height=200&fontSize=40&fontAlign=50&desc=Back-End%20Developer&descAlign=50&descSize=18" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20Sehee's%20GitHub&height=200&fontSize=40&fontAlign=50&desc=Back-End%20Developer&descAlign=50&descSize=18" />
 
