@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm 김세희 (Saehee Kim)
 
 🌱 Back-End Developer | 💻 Passionate about Real-world Service Engineering  
-📍 Currently studying Computer Engineering @Sejong Univ. (2022.03 ~ 2025.02)  
+📍 Currently studying Computer Engineering @Sejong Univ. (2022.03 ~ 2026.02)  
 📬 sayees1118@gmail.com  
 </div>
 
