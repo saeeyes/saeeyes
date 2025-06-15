@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&text=saeeyes's%20GitHub%20%7C%20Back-End%20Developer&fontSize=32&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=saeeyes's%20GitHub%20%7C%20Back-End%20Developer&fontSize=32&fontAlign=50" />
 
 <h1>👋 안녕하세요, 저는 <span style="color:#4CAF50">김세희입니다.</span></h1>
 
