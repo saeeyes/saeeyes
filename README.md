@@ -16,31 +16,31 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <br><br>
+  <br>
 
   <!-- Back-End -->
   <strong>🔧 Back-End</strong><br>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <br><br>
+  <br>
 
   <!-- Database -->
   <strong>🗄 Database</strong><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <br><br>
+  <br>
 
   <!-- Infra -->
   <strong>☁ Infra</strong><br>
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <br><br>
+  <br>
 
   <!-- Tools -->
   <strong>🧪 Tools</strong><br>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <br><br>
+  <br>
 
   <!-- Collaboration -->
   <strong>🤝 Collaboration</strong><br>
