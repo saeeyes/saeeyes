@@ -20,10 +20,10 @@
 
 ## 📌 Tech Stack
 
-| Back-End | Front-End | Infra & DB | Collaboration |
-|----------|------------|-------------|----------------|
-| Java (JDK 21), Spring Boot | React Native, HTML/CSS | MySQL, AWS EC2, S3, Firebase | GitHub, Figma, Notion |
-| Spring Security, JWT, OAuth2 | Flutter (공기질 앱) | Redis, MQTT | Postman, ERDCloud |
+| Back-End                          | Front-End     | Infra & DB                     | Collaboration & Tools      |
+|----------------------------------|---------------|--------------------------------|-----------------------------|
+| Java (JDK 21), Spring Boot       | HTML/CSS      | MySQL, AWS S3, Firebase        | GitHub, Figma, Notion       |
+| Spring Security, JWT, OAuth2     | JavaScript    | AWS EC2, Postman               | ERDCloud, IntelliJ, Postman |
 
 ---
 
@@ -36,7 +36,7 @@
 - ✅ 사용자 유형별 칼로리 계산 알고리즘 설계
 - ✅ 체중/눈바디/식단/운동 CRUD API
 - ✅ UUID 기반 대결 기능 구현
-- 🔗 [GitHub Repo](https://github.com/Smart-Air-App/BE)
+- 🔗 [GitHub Repo](https://github.com/Personal-Manager-Web/PM-back)
 
 ---
 
