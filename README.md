@@ -5,9 +5,6 @@
 🌱 Back-End Developer | 💻 Passionate about Real-world Service Engineering  
 📍 Currently studying Computer Engineering @Sejong Univ. (2022.03 ~ 2025.02)  
 📬 sayees1118@gmail.com  
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/saeeyes&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)
-
 </div>
 
 ---
