@@ -66,13 +66,6 @@
 
 ---
 
-## 🏢 Organization Contributions
-
-> ⚠️ `Smart-Air-App/BE`는 Organization Repository로 GitHub Stats에는 반영되지 않을 수 있습니다.  
-> 모든 백엔드 기능은 직접 개발 및 테스트를 수행하였으며, 실서비스 수준의 기술 스택과 시스템 아키텍처 설계에 참여했습니다.
-
----
-
 ## 🪪 Certificates & Awards
 
 - 📜 OPIC IL (2025.02)
