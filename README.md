@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hi there, I'm <span style="color:#4CAF50">김세희 (Saehee Kim)</span></h1>
+<h1>👋 안녕하세요, 저는 <span style="color:#4CAF50">김세희 (Sehee Kim)입니다.</span></h1>
 
 <p>
   🌱 Back-End Developer <br>
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20Sehee's%20GitHub&height=200&fontSize=40&fontAlign=50&desc=Back-End%20Developer&descAlign=50&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=saeeyes's%20GitHub&height=200&fontSize=40&fontAlign=50&desc=Back-End%20Developer&descAlign=50&descSize=18" />
 
 </div>
 
