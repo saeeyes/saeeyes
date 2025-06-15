@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=saeeyes's%20GitHub&height=250&fontSize=40&fontAlign=50&desc=%0ABack-End%20Developer&descAlign=50&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&text=saeeyes's%20GitHub%20%7C%20Back-End%20Developer&fontSize=32&fontAlign=50" />
 
 </div>
 
